@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpLoginSqlProject</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="delete">delete</string>
+    <string name="deleteelete">Delete</string>
+    <string name="update">Update</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+</resources>

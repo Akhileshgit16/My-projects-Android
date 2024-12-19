@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application Form</string>
+    <string name="refresh">Refresh</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="registration">Registration Form</string>
+    <string name="submit">Submit</string>
+    <string name="application_form">Application form</string>
+    <string name="please_enter_your_details">Please Enter Your Details</string>
+</resources>

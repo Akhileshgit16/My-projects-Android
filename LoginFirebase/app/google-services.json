@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42062972683",
+    "project_id": "loginfirebase-d0d4b",
+    "storage_bucket": "loginfirebase-d0d4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42062972683:android:ccb45d919acb6c9332440e",
+        "android_client_info": {
+          "package_name": "com.wsa.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6orkZ1Ol2O08zVQNBUAFzShFp0GCsEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

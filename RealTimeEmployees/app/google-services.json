@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "93109107935",
+    "firebase_url": "https://realtime-employees-default-rtdb.firebaseio.com",
+    "project_id": "realtime-employees",
+    "storage_bucket": "realtime-employees.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93109107935:android:2a591738d749f2cdd73d6a",
+        "android_client_info": {
+          "package_name": "com.wsa.realtime_employees"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2efJAeuTuT-19c2pU3pX6p0SyK9rlWyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

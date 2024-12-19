@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Passing Data</string>
+    <string name="Your_value_comes_here">Your value comes here</string>
+    <string name="home_btn">Button</string>
+    <string name="home">Home</string>
+    <string name="home_bt">Home</string>
+</resources>

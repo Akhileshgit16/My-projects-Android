@@ -1,0 +1,52 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:layout_gravity="center"
+    app:cardCornerRadius="20dp"
+    app:cardBackgroundColor="#C12727"
+    android:layout_row="0">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/imageViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="300dp" />
+
+        <TextView
+            android:id="@+id/userTextViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="User"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/likesTextViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Likes"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/viewsTextViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Views"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/downloadsTextViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Downloads"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

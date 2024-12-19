@@ -1,0 +1,16 @@
+{
+  "Users": {
+    "user1": {
+      "name": "Ravi",
+      "email": "ravi@yahoo.com",
+      "password": "89786723",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjC0CZGGDJbJ4hH1_jLKaMzhL96cwCQ8OeQ&s"
+    },
+    "user2": {
+      "name": "Charan",
+      "email": "charan96@yahoo.com",
+      "password": "72867233",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCuAeu1euCiebE3y2qi8JJah3n_8TLJwNyg&s"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656082972672",
+    "project_id": "cricketer-rankings",
+    "storage_bucket": "cricketer-rankings.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656082972672:android:d7850a2fa0276fcff2e8e5",
+        "android_client_info": {
+          "package_name": "com.wsa.iccrankings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPPOFAvnTlSwCTA2UIKiGKbu1kd6t6dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656082972672:android:b3aa02d605296f77f2e8e5",
+        "android_client_info": {
+          "package_name": "com.wsa.profilesql"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPPOFAvnTlSwCTA2UIKiGKbu1kd6t6dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

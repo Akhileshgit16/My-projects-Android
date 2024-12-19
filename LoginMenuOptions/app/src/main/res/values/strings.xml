@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login Menu Options</string>
+    <string name="username">username</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="food_ratings">Food Ratings</string>
+    <string name="food_time">Food Time</string>
+    <string name="food_category">Food Category</string>
+    <string name="food_price">Food Price</string>
+    <string name="food_name">Food Name</string>
+
+    <string name="foodsName">Food Name is </string>
+    <string name="foodsCategory">Food Category is </string>
+    <string name="foodsTime">Food preparation time is </string>
+    <string name="foodsPrice">Food price is </string>
+    <string name="foodsRating">Food Rating is </string>
+
+
+</resources>

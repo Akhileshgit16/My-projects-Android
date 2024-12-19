@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Food Lazy Column</string>
+    <string name="burger"></string>
+    <string name="burgerchains"></string>
+    <string name="pizza">A round flatbread topped with tomato sauce, cheese, and a variety of toppings such as meats, vegetables, and herbs</string>
+    <string name="pizzachains">Domino\'s, Pizza Hut, Papa John, Little Caesars</string>
+    <string name="fries">Food Lazy Column</string>
+    <string name="frieschains">Food Lazy Column</string>
+    <string name="milkshakes">Food Lazy Column</string>
+    <string name="milkshakeschains">Food Lazy Column</string>
+    <string name="donuts">Food Lazy Column</string>
+    <string name="donutschains">Food Lazy Column</string>
+    <string name="nachos">Food Lazy Column</string>
+    <string name="nachoschains">Food Lazy Column</string>
+    <string name="icecream">Food Lazy Column</string>
+    <string name="icecreamchains">Food Lazy Column</string>
+
+
+
+</resources>

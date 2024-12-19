@@ -1,0 +1,47 @@
+
+{
+"employees":[
+{
+"name":"Akhilesh",
+"email":"akhil@yahoo.com",
+"phone":89786726873,
+"designation":"Data Engineer"
+},
+{
+"name":"Shashank",
+"email":"shanskank@yahoo.com",
+"phone":9727381819,
+"designation":"Data science Engineer"
+},
+  {
+    "name":"Varsha",
+    "email":"Varsha@gmail.com",
+    "phone":8928932221,
+    "designation":"Hr Coordinator"
+  },
+{
+"name":"Karthik",
+"email":"karthik23@yahoo@yahoo.com",
+"phone":981391312,
+"designation":"Dev Engineer"
+},
+  {
+    "name":"Ravi",
+    "email":"Ravi@yahoo.com",
+    "phone":923272719,
+    "designation":"Python Engineer"
+  },
+  {
+    "name":"Shravan",
+    "email":"Shravan@gmail.com",
+    "phone":985231819,
+    "designation":"Manager"
+  },
+  {
+    "name": "Harshali",
+    "email": "harshali@gmail.com",
+    "phone": 9852318192,
+    "designation": "Analyst"
+  }
+]
+}

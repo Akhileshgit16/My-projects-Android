@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/firstName_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/first_nam"
+        android:inputType="textCapWords"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/lastName_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_nam"
+        android:textColor="@color/white"
+        android:inputType="textCapCharacters"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/firstName_et" />
+
+    <EditText
+        android:id="@+id/country_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/country1"
+        android:inputType="textCapCharacters"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lastName_et" />
+
+    <EditText
+        android:id="@+id/birthdate_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/birth_date"
+        android:inputType="date"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/country_et" />
+
+    <EditText
+        android:id="@+id/role_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/roles"
+        android:inputType="textCapCharacters"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/birthdate_et" />
+
+    <EditText
+        android:id="@+id/style_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/styles"
+        android:inputType="textCapCharacters"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/role_et" />
+
+    <EditText
+        android:id="@+id/testranking_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/icc_test_ranking"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/style_et" />
+
+    <EditText
+        android:id="@+id/odiranking_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/icc_odi_ranking"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/testranking_et" />
+
+    <EditText
+        android:id="@+id/t20ranking_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/icc_t20_ranking"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/odiranking_et" />
+
+    <Button
+        android:id="@+id/save_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/save"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/load_btn"
+        app:layout_constraintTop_toBottomOf="@+id/t20ranking_et" />
+
+    <Button
+        android:id="@+id/load_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/load"
+        app:layout_constraintEnd_toStartOf="@+id/save_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t20ranking_et" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

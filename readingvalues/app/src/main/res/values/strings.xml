@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">readingvalues</string>
+    <string name="submit">SUBMIT</string>
+    <string name="data">Name</string>
+</resources>

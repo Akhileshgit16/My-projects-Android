@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IccRankings</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="country">country</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="role">role</string>
+    <string name="style">style</string>
+    <string name="first_nam">First_name</string>
+    <string name="last_nam">Last_name</string>
+    <string name="country1">Country</string>
+    <string name="roles">Role</string>
+    <string name="styles">Style</string>
+    <string name="icc_test_ranking">Icc test ranking</string>
+    <string name="icc_odi_ranking">Icc odi ranking</string>
+    <string name="icc_t20_ranking">Icc t20 ranking</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+    <string name="lastname">Last_Name</string>
+    <string name="firstname">First_Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="lastnm">last Name</string>
+    <string name="birthDate">birthdate\n</string>
+    <string name="testString">Test Ranking : #</string>
+    <string name="odiString">ODI Ranking : #</string>
+    <string name="t20String">T20 Ranking : #</string>
+</resources>

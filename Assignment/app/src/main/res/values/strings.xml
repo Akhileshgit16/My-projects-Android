@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="designation">designation</string>
+    <string name="submit">submit</string>
+    <string name="name_tv">name_tv</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_number">enter_your_number</string>
+    <string name="enter_your_emailid">enter_your_emailid</string>
+</resources>

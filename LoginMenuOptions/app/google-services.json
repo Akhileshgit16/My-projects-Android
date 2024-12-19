@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688599677239",
+    "project_id": "food-menu-9d322",
+    "storage_bucket": "food-menu-9d322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688599677239:android:61ba1ff33a0fa1f32f42b2",
+        "android_client_info": {
+          "package_name": "com.wsa.loginmenuoptions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjiABZA6HqmJ_lLh_FElEpbK2ips6-r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

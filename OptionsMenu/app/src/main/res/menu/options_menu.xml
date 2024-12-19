@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <!--
+    <item
+        android:id="@+id/call"
+        android:title="@string/call"
+        android:icon="@drawable/ic_action_call"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/launch"
+        android:title="@string/launch"
+        android:icon="@drawable/ic_action_arrow"
+        app:showAsAction="ifRoom" />
+        -->
+
+    <item
+        app:showAsAction="ifRoom"
+        android:id="@+id/virat"
+        android:title="@string/virat" />
+    <item
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_red"
+        android:id="@+id/rohit"
+        android:title="@string/rohit" />
+    <item
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_yellow"
+        android:id="@+id/dhoni"
+        android:title="@string/dhoni" />
+</menu>

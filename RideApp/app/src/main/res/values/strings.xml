@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RideApp</string>
+    <string name="pick_up">Pick up :</string>
+    <string name="destination">Destination :</string>
+    <string name="journey_detials">Journey Detials</string>
+    <string name="travel_date_time"><![CDATA[Travel Date & Time :]]></string>
+    <string name="details">details</string>
+    <string name="detail">details</string>
+    <string name="detai">details</string>
+</resources>
